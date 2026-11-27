@@ -1,0 +1,48 @@
+{
+  "subject": "sub-01",
+  "n_runs": 112,
+  "n_glm_columns_total": 12736,
+  "n_delay_rows": 6368,
+  "n_delay_retained": 6034,
+  "n_delay_excluded_incorrect": 334,
+  "n_legacy_records": 10260,
+  "n_duplicates_removed": 4226,
+  "n_task_variants": 12,
+  "task_variants": [
+    "ctxdm_col",
+    "ctxdm_lco",
+    "dms_loc",
+    "interdms_ctg_ABAB",
+    "interdms_ctg_ABBA",
+    "interdms_loc_ABAB",
+    "interdms_loc_ABBA",
+    "interdms_obj_ABAB",
+    "interdms_obj_ABBA",
+    "nback_ctg",
+    "nback_loc",
+    "nback_obj"
+  ],
+  "n_runs_relabelled": 0,
+  "n_runs_unresolved": 0,
+  "vector_verification": {
+    "checked": 6034,
+    "ok": 6034,
+    "wrong_column": 0
+  },
+  "n_encoding_in_delay_dataset": 0,
+  "n_duplicate_keys": 0,
+  "n_physically_identical_vectors": 0,
+  "n_nan_inf": 0,
+  "cifti_axis_sha1": "5da42bc458858e1012633dda07ee397f17bafb0d",
+  "n_masked_vertices_const": 0,
+  "masked_abs_beta_percentiles": {
+    "50": 3.3150811195373535,
+    "99": 59.66058349609375,
+    "99.9": 172.59535217285156,
+    "99.99": 364.77471923828125,
+    "100": 465114.9375
+  },
+  "n_records_with_abs_beta_gt_50": 5556,
+  "n_records_with_abs_beta_gt_100": 3641,
+  "elapsed_s": 135
+}

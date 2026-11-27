@@ -1,0 +1,13 @@
+subject,task_variant,n_retained,n_runs,legacy_records,duplicates_removed,excluded_incorrect,n_glm_columns,n_delay_rows
+sub-05,ctxdm_col,859,16,1398,539,101,1920,960
+sub-05,ctxdm_lco,888,16,1456,568,72,1920,960
+sub-05,dms_loc,455,15,670,215,25,960,480
+sub-05,interdms_ctg_ABAB,277,5,474,197,43,640,320
+sub-05,interdms_ctg_ABBA,293,5,506,213,27,640,320
+sub-05,interdms_loc_ABAB,715,13,1222,507,117,1664,832
+sub-05,interdms_loc_ABBA,837,14,1450,613,59,1792,896
+sub-05,interdms_obj_ABAB,296,5,512,216,24,640,320
+sub-05,interdms_obj_ABBA,293,5,506,213,27,640,320
+sub-05,nback_ctg,46,2,74,28,62,216,108
+sub-05,nback_loc,341,12,574,233,307,1296,648
+sub-05,nback_obj,68,2,118,50,40,216,108
