@@ -1,0 +1,1 @@
+54b8c354-2493-458a-8a80-f2ed6a1bfc6b autoenable=true bucket=cneuromod.multfs.glm-clean-delay chunk=1GiB datacenter=US encryption=none host=s3.unf-montreal.ca name=unfs3.cneuromod.multfs.glm-clean-delay port=443 protocol=https requeststyle=path storageclass=STANDARD type=S3 timestamp=1795793739s
